@@ -5,11 +5,11 @@ module.exports = {
   ,
   pwa: {
     iconPaths: {
-      favicon32: 'd-favicon.ico',
-      favicon16: 'd-favicon.ico',
-      appleTouchIcon: 'd-favicon.ico',
-      maskIcon: 'd-favicon.ico',
-      msTileImage: 'd-favicon.ico'
+      favicon32: 'favicon.ico',
+      favicon16: 'favicon.ico',
+      appleTouchIcon: 'favicon.ico',
+      maskIcon: 'favicon.ico',
+      msTileImage: 'favicon.ico'
     }
   }
 }
