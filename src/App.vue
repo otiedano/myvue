@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      加一段文字？？？就可以吗、
     </div>
     <router-view/>
   </div>
